@@ -18,8 +18,8 @@ USB I2S преобразователь 32bit/96kHz, SUPER PRIME chipdip
 			<td rowspan="2">Конфигурация<br />
 			аудио каналов</td>
 			<td rowspan="2">Разрешение<br />
-			бит</td>
-			<td colspan="4">Частота дискретизации кГц</td>
+			bit</td>
+			<td colspan="4">Частота дискретизации kHz</td>
 		</tr>
 		<tr>
 			<td>44,1</td>
@@ -28,7 +28,7 @@ USB I2S преобразователь 32bit/96kHz, SUPER PRIME chipdip
 			<td>192</td>
 		</tr>
 		<tr>
-			<td rowspan="3">2.0</td>
+			<td rowspan="3">2.0 Stereo</td>
 			<td>16</td>
 			<td>+</td>
 			<td>+</td>
@@ -58,14 +58,27 @@ USB I2S преобразователь 32bit/96kHz, SUPER PRIME chipdip
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>24</td>
+			<td>+</td>
+			<td>+</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2">4.0</td>
+			<td rowspan="2">4.0 quadro</td>
 			<td>16</td>
 			<td>+</td>
 			<td>+</td>
 			<td>+</td>
 			<td>&nbsp;</td>
 		</tr>
+		<tr>
+			<td>24</td>
+			<td>+</td>
+			<td>+</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
 	</tbody>
+</table>
 </table>
