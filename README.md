@@ -81,5 +81,63 @@ USB I2S преобразователь 32bit/96kHz, <a class="link" href="https:
 		</tr>
 	</tbody>
 </table>
+<h2>Аппаратная конфигурация. Таблица 2</h2>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Позиция джампера</td>
+			<td>Аудио режим</td>
+			<td>Битность</td>
+		</tr>
+		<tr>
+			<td>Не установлены</td>
+			<td>Стерео 2.0</td>
+			<td>16, 24</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>Стерео 2.0</td>
+			<td>32</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>3.1</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>13,14</td>
+			<td>Квадро 4.0</td>
+			<td>16</td>
+		</tr>
+	</tbody>
 </table>
+
+<h2>Схема</h2>
+
+<p><a class="galery" href="https://static.chipdip.ru/lib/367/DOC004367363.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/367/DOC004367362.jpg" /></a><br />
+<br />
+<br />
+SUPER PRIME chipdip&nbsp;прекрасно работает со всеми&nbsp;существующими модулями цифровой обработки звука, всеми&nbsp;цифро-аналоговыми преобразователями,&nbsp;построенными в лаборатории Чип и Дип. И непременно будет испытан со всеми цифровыми аудио устройствами которые мы спроектируем в будущем.</p>
+
+<h2>Пример подключения четырех каналов к <a class="link" href="/product/pcm5102a-audio-dac">PCM5102</a></h2>
+<img alt="" src="https://static.chipdip.ru/lib/368/DOC004368189.jpg" />
+<h2>Пример подключения четырех каналов к ADAU1701 <a class="link" href="/product/digital-signal-processors-rdc2-0027v1-2">RDC2-0027v1</a></h2>
+<br />
+<img alt="" src="https://static.chipdip.ru/lib/368/DOC004368408.jpg" />
+<h2>Пример подключения четырех каналов к ADAU1701 <a class="link" href="/product/dsp-rdc2-0027v2-2">RDC2-0027v2</a></h2>
+<img alt="" src="https://static.chipdip.ru/lib/368/DOC004368433.jpg" />
+<h2>Пример подключения четырех каналов к ADAU1701 <a class="link" href="/product/rdc2-0027v3">RDC2-0027v3</a></h2>
+<br />
+<img alt="" src="https://static.chipdip.ru/lib/368/DOC004368191.jpg" />
+<h2>Пример подключения&nbsp;двух каналов к <a class="link" href="/product/sigmadsp-adau1761">ADAU1761</a></h2>
+<img alt="" src="https://static.chipdip.ru/lib/368/DOC004368434.jpg" /><br />
+<em><strong>Изменения в новой версии прошивки v1.1:</strong></em><br />
+- для конфигураций 3.1 и 4.0 добавлены форматы<br />
+&nbsp; 24 бита, 44100 Гц<br />
+&nbsp; 24 бита, 48000 Гц<br />
+- реализована функция &quot;Mute&quot; (при управлении с ПК)<br />
+<br />
+<img alt="" src="https://static.chipdip.ru/lib/369/DOC004369719.jpg" /><br />
+&nbsp;
 <a class="link" href="https://www.chipdip.ru/catalog/just-do-it">all projects</a>
