@@ -82,3 +82,4 @@ USB I2S преобразователь 32bit/96kHz, <a class="link" href="https:
 	</tbody>
 </table>
 </table>
+<a class="link" href="https://www.chipdip.ru/catalog/just-do-it">all projects</a>
