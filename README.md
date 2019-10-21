@@ -140,4 +140,49 @@ SUPER PRIME chipdip&nbsp;прекрасно работает со всеми&nbs
 <br />
 <img alt="" src="https://static.chipdip.ru/lib/369/DOC004369719.jpg" /><br />
 &nbsp;
+<strong><em>Изменения в новой версии прошивки v1.2</strong><br />
+- реализована внешняя синхронизация<br />
+- незначительные исправления<br />
+<br />
+<strong>Назначение контактов. прошивка v1.2</strong><br />
+<strong>контакт 2</strong> - вход для внешнего MCLK<br />
+<strong><strong>контакты 11 и 12</strong></strong> - выбор внешнего тактирования<br />
+разомкнуты - внутреннее тактирование<br />
+замкнуты - внешнее тактирование<br />
+<br />
+<strong>контактны 8 и 9</strong> - выходы переключения частот<br />
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>Контакт 8</td>
+			<td>Контакт 9</td>
+			<td>частота</td>
+		</tr>
+		<tr>
+			<td>0</td>
+			<td>0</td>
+			<td>44100</td>
+		</tr>
+		<tr>
+			<td>0</td>
+			<td>1</td>
+			<td>48000</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>0</td>
+			<td>96000</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>1</td>
+			<td>192000</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<img alt="" src="https://static.chipdip.ru/lib/422/DOC004422648.jpg" /><br />
+<br />
+<br>
 <a class="link" href="https://www.chipdip.ru/catalog/just-do-it">all projects</a>
