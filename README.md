@@ -184,5 +184,35 @@ SUPER PRIME chipdip&nbsp;прекрасно работает со всеми&nbs
 <br />
 <img alt="" src="https://static.chipdip.ru/lib/422/DOC004422648.jpg" /><br />
 <br />
+<strong><em>Изменения в новой версии прошивки v1.3:</em></strong><br />
+Реализована функция генератора MCLK. Пока устройство не подключено к ПК (при внешнем питании 5В), оно генерирует сигнал MCLK с выбранной частотой. Возможна как внутренняя, так и внешняя синхронизация. После подключения устройства к USB частота MCLK определяется аудиопотоком.
+<table>
+	<tbody>
+		<tr>
+			<td>Позиция джампера</td>
+			<td>Частота<br />
+			MCLK (256 * Fs), МГц</td>
+		</tr>
+		<tr>
+			<td>не установлены</td>
+			<td>11,2896</td>
+		</tr>
+		<tr>
+			<td>6-7</td>
+			<td>12,288</td>
+		</tr>
+		<tr>
+			<td>4-5</td>
+			<td>24,576</td>
+		</tr>
+		<tr>
+			<td>4-5 и 6-7</td>
+			<td>49,152</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+
 <br>
 <a class="link" href="https://www.chipdip.ru/catalog/just-do-it">all projects</a>
