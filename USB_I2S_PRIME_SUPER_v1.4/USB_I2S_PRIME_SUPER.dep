@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>3306406520</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Audio\Inc\audio_speaker_node.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_it.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_audio_if.__cstat.et</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h</file>
+            <file>$PROJ_DIR$\User\Inc\stm32f4xx_it.h</file>
+            <file>$PROJ_DIR$\Audio\Inc\usbd_audio_if.h</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Core\Inc\usbd_ctlreq.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_core_ex.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_configuration.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\User\Inc\usb_audio_descriptors.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_it.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_pcd_ex.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_audio.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_ctlreq.o</file>
+            <file>$PROJ_DIR$\User\Src\startup_stm32f446xx.s</file>
+            <file>$PROJ_DIR$\User\Src\system_stm32f4xx.c</file>
+            <file>$PROJ_DIR$\User\Src\audio_configuration.c</file>
+            <file>$PROJ_DIR$\User\Src\audio_speaker_node.c</file>
+            <file>$PROJ_DIR$\User\Src\main.c</file>
+            <file>$PROJ_DIR$\User\Src\SAI.c</file>
+            <file>$PROJ_DIR$\User\Src\stm32f4xx_it.c</file>
+            <file>$PROJ_DIR$\User\Src\usb_audio_descriptors.c</file>
+            <file>$PROJ_DIR$\User\Src\usbd_conf.c</file>
+            <file>$PROJ_DIR$\User\Src\usbd_desc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_ioreq.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_usb_nodes.__cstat.et</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h</file>
+            <file>$PROJ_DIR$\User\Inc\audio_configuration.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\USB_I2S_PRIME_SUPER.out</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Audio\Inc\audio_usb_nodes.h</file>
+            <file>$PROJ_DIR$\User\Inc\usb_audio_user_cfg.h</file>
+            <file>$PROJ_DIR$\Audio\Inc\audio_sessions_usb.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_speaker_node.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_stm32f446xx.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_audio_if.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\usb_audio_descriptors.pbi</file>
+            <file>$PROJ_DIR$\User\Inc\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_desc.o</file>
+            <file>$PROJ_DIR$\User\Inc\mpu_armv7.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_conf.__cstat.et</file>
+            <file>$PROJ_DIR$\Audio\Inc\audio_node.h</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Core\Inc\usbd_def.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_speaker_node.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_pcd.o</file>
+            <file>$PROJ_DIR$\User\Inc\SAI.h</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_cortex.h</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pcd_ex.h</file>
+            <file>$PROJ_DIR$\Debug\List\USB_I2S_PRIME_SUPER.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_usb_playback_session.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_audio_if.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_configuration.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\User\Inc\stm32f4xx_hal_conf.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_audio.__cstat.et</file>
+            <file>$PROJ_DIR$\User\Inc\usb_audio_constants.h</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_ioreq.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\SAI.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_ctlreq.__cstat.et</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Core\Inc\usbd_core.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_usb_nodes.o</file>
+            <file>$PROJ_DIR$\User\Inc\audio_user_devices.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\User\Inc\system_stm32f4xx.h</file>
+            <file>$PROJ_DIR$\User\Inc\usb_audio.h</file>
+            <file>$PROJ_DIR$\User\Inc\stm32f446xx.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_pcd_ex.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_conf.o</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pcd.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\USB_I2S_PRIME_SUPER.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_audio.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_desc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_configuration.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_ll_usb.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\usb_audio_descriptors.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_desc.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_ctlreq.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\SAI.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_pcd.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_speaker_node.o</file>
+            <file>$PROJ_DIR$\User\Inc\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_core_ex.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_pcd_ex.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\SAI.o</file>
+            <file>$PROJ_DIR$\User\Inc\board.h</file>
+            <file>$PROJ_DIR$\User\Inc\usbd_desc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_usb_playback_session.o</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_it.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_cortex.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_conf.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Class\AUDIO_10\Inc\usbd_audio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_usb_nodes.pbi</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_ll_usb.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_pcd.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\audio_usb_playback_session.pbi</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Core\Inc\usbd_ioreq.h</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_cortex.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\USB_I2S_PRIME_SUPER.hex</file>
+            <file>$PROJ_DIR$\User\Inc\usbd_conf.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_core_ex.o</file>
+            <file>$PROJ_DIR$\User\Inc\core_cm4.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\stm32f446_flash_Playback.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\usbd_ioreq.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_ll_usb.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal_cortex.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_ll_usb.pbi</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h</file>
+            <file>$PROJ_DIR$\User\Inc\stm32f4xx.h</file>
+            <file>$PROJ_DIR$\User\Inc\cmsis_version.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_hal.__cstat.et</file>
+            <file>$PROJ_DIR$\User\Inc\hal_usb_ex.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\usb_audio_descriptors.__cstat.et</file>
+            <file>$PROJ_DIR$\Audio\Src\audio_usb_nodes.c</file>
+            <file>$PROJ_DIR$\Audio\Src\audio_usb_playback_session.c</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Class\AUDIO_10\Src\usbd_audio.c</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c</file>
+            <file>$PROJ_DIR$\Audio\Src\usbd_audio_if.c</file>
+            <file>$PROJ_DIR$\STM32_USB_Device_Library\Core\Src\usbd_core_ex.c</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c</file>
+            <file>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\User\Src\startup_stm32f446xx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\system_stm32f4xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 108</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 107</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70 31 118 72 120 84 90 85 9 130 131 42 55 126 40</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\audio_configuration.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 8</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29 94 72 120 84 31 55 126 85 118 131 90 40 9 42 70 44 58 0 67 71 33 103 111 45 117 129 56 59 28 130 112 26 69 3 49 75 106 50 133 124 102 115 121 65 6 48</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45 29 44 70 49 106 56 55 48 0 31 126 40 84 67 71 69 117 103 94 58 72 120 131 9 111 129 124 59 75 3 112 90 42 85 118 33 65 133 26 115 28 130 50 102 121 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\audio_speaker_node.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 36</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 115 31 55 126 85 118 69 121 103 111 45 117 129 56 59 28 130 72 120 84 131 90 40 9 42 70 112 26 3 49 75 106 50 133 71 58 44 33 124 102 29 94 0 67 65 6 48</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45 112 55 129 75 28 102 71 126 111 124 59 3 50 72 0 48 29 56 49 70 69 33 58 117 103 94 31 121 85 118 65 133 26 115 130 120 84 90 42 106 67 131 40 9 44 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 104</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71 84 31 55 126 85 118 58 44 33 29 94 72 120 131 90 40 9 42 70 0 67 5 103 111 45 117 129 56 59 28 130 112 26 69 3 49 75 106 50 133 124 102 115 121 65 6 34 32 95</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65 6 44 71 117 31 58 70 9 115 72 5 84 126 0 90 42 103 133 26 69 28 106 55 121 29 95 33 85 118 94 120 40 67 130 50 102 45 131 34 111 129 124 56 59 49 75 3 112 32</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\SAI.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48 94 72 120 84 31 55 126 85 118 131 90 40 9 42 70 49 28 130 112 26 69 58</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84 131 72 69 58 120 9 49 94 70 31 126 40 28 112 48 90 42 55 85 118 130 26</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\stm32f4xx_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 1</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 11</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4 94 72 120 84 31 55 126 85 118 131 90 40 9 42 70 0 67 71 58 44 33 129 56 59 28 130 112 26 69 3 49 75 106 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 120 50 55 44 33 130 28 0 72 84 90 42 118 94 129 70 85 58 26 69 106 4 131 126 40 9 67 71 56 59 49 75 3 112</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\usb_audio_descriptors.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 134</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 103 111 65 6 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28 71 26 33 69 45 130 84 85 10 117 133 115 72 120 31 50 102 44 111 6 103 29 129 124 56 59 49 75 3 112 70 90 42 55 118 106 58 121 0 67 131 126 40 9 94 65</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\usbd_conf.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 71 58 44 33 94 10 65 117 133 124 102 115 121 29 0 67 45 111 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71 130 28 84 106 65 85 58 111 29 55 117 94 26 72 120 31 50 69 45 10 56 59 49 75 3 112 70 90 42 118 33 129 124 67 131 126 40 9 44 6 133 115 102 121 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\User\Src\usbd_desc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 45 111 6 95 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 129 112 75 10 117 124 59 3 84 31 72 111 71 29 56 49 70 126 40 55 58 45 95 6 133 26 115 28 130 120 131 9 106 44 69 94 65 90 42 85 118 50 33 102 121 0 67</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\USB_I2S_PRIME_SUPER.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 122 54 89 66 97 104 93 37 68 114 47 92 99 80 108 81 77 53 74 119 14 41 60 113 98 88</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 30 51</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Audio\Src\audio_usb_nodes.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 27</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 105</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71 84 31 55 126 85 118 58 44 33 32 103 111 45 117 129 56 59 28 130 72 120 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 124 102 115 121 29 94 0 67 65 6 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45 133 31 126 26 58 84 65 117 115 72 120 10 44 28 130 40 55 32 29 33 85 118 103 111 129 71 124 56 59 49 75 3 112 70 90 42 9 106 69 94 6 131 50 102 121 0 67</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Audio\Src\audio_usb_playback_session.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 110</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 111 45 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 65 6 34 32 10</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72 120 115 31 65 117 50 10 133 26 28 102 44 0 130 84 85 33 69 6 71 34 111 45 129 124 29 56 59 49 75 3 112 70 90 42 55 118 106 58 121 103 131 126 40 9 94 67 32</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32_USB_Device_Library\Class\AUDIO_10\Src\usbd_audio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 57</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 111 45 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 65 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28 102 26 44 117 130 84 31 50 71 65 133 115 72 120 85 33 69 45 6 111 129 124 29 56 59 49 75 3 112 70 90 42 55 118 106 58 121 0 67 103 131 126 40 9 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 123</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 111 45 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 65 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 133 44 6 26 55 117 115 72 120 9 65 28 130 84 131 106 69 94 45 129 71 124 29 56 59 49 75 3 112 70 31 126 40 58 111 90 42 85 118 50 33 102 121 0 67</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 64</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6 45 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 111 65</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3 124 59 45 129 75 112 84 31 72 6 71 29 56 49 70 126 40 55 58 111 117 133 26 115 28 130 120 131 9 106 44 69 94 90 42 85 118 50 33 102 121 0 67 65</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Audio\Src\usbd_audio_if.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 2</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103 111 45 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 65 6 34 32 5</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 115 28 71 72 120 65 117 33 69 133 26 85 45 34 130 84 31 50 102 44 5 111 129 124 29 56 59 49 75 3 112 70 90 42 55 118 106 58 121 0 67 32 103 131 126 40 9 94 6</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32_USB_Device_Library\Core\Src\usbd_core_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 119</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 91</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 7</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65 117 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50 133 71 58 44 33 124 102 115 121 29 94 0 67 45 111 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71 112 6 129 31 50 75 124 59 3 28 102 44 117 45 29 56 49 70 85 33 69 65 111 133 26 115 130 72 120 84 90 42 55 118 106 58 121 0 67 131 126 40 9 94</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 132</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 49 70 50 28 56 59 75 3 112 85 130 26 72 120 84 90 42 55 118 69 106 129 131 126 40 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 114</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 127</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 72 120 50 26 28 130 84 85 56 59 49 75 3 112 70 90 42 55 118 69 106 129 131 126 40 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 87</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 109</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42 72 120 90 26 84 118 28 130 55 69 106 56 59 49 75 3 112 70 85 31 50 129 131 126 40 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 73</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 56 112 75 50 59 3 28 49 70 85 130 26 72 120 84 90 42 55 118 69 106 129 131 126 40 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 125</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 128</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 129 56 59 28 130 72 120 84 31 55 126 85 118 131 90 40 9 42 70 112 26 69 3 49 75 106 50</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31 130 84 50 28 26 72 120 85 56 59 49 75 3 112 70 90 42 55 118 69 106 129 131 126 40 9</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
