@@ -216,3 +216,5 @@ SUPER PRIME chipdip&nbsp;прекрасно работает со всеми&nbs
 
 <br>
 <a class="link" href="https://www.chipdip.ru/catalog/just-do-it">all projects</a>
+<strong><em>Изменения в новой версии прошивки v1.4:</em></strong><br />
+решена проблема инициализации после выключения ПК
