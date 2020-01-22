@@ -216,4 +216,10 @@ SUPER PRIME chipdip&nbsp;прекрасно работает со всеми&nbs
 <strong><em>Изменения в новой версии прошивки v1.4:</em></strong><br />
 решена проблема инициализации после выключения ПК
 <br>
+<strong><em>Изменения в новой версии прошивки v1.5:</em></strong><br />
+- изменено соотношение BCLK / Fs
+  для формата 16 бит BCLK = 32 * Fs
+  для форматов 24 и 32 бита BCLK = 64 * Fs
+
+<br>
 <a class="link" href="https://www.chipdip.ru/catalog/just-do-it">all projects</a>
